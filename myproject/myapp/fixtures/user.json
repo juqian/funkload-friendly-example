@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$24000$oAVKksEEMQHn$B5QvdCEFl0hwvIYmeecVW7YEO3TV4GZlezMMe09pWeg=",
+    "last_login": "2016-03-06T13:51:53.337Z",
+    "is_superuser": true,
+    "username": "spam",
+    "first_name": "",
+    "last_name": "",
+    "email": "spam@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-03-06T13:41:07.416Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

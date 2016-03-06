@@ -1,3 +1,4 @@
 *.pyc
 *.orig
+*.sqlite3
 venv/
