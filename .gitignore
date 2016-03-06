@@ -2,3 +2,5 @@
 *.orig
 *.sqlite3
 venv/
+ftest/
+bench/
